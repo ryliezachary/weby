@@ -1,4 +1,4 @@
-				<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+				<nav class="navbar fixed-top navbar-expand-lg navbar-light">
 				  <a class="navbar-brand" href="#">LOGO HERE</a>
 				   <button class="navbar-toggler text-dark" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 				    <span class="navbar-toggler-icon"></span>
