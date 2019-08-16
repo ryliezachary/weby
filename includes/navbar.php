@@ -1,5 +1,5 @@
 				<nav class="navbar fixed-top navbar-expand-lg navbar-light">
-				  <a class="navbar-brand" href="#">LOGO HERE</a>
+				  <a class="navbar-brand" href="#"><img src="./images/favicon.png" alt="LOGO"></a>
 				   <button class="navbar-toggler text-dark" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 				    <span class="navbar-toggler-icon"></span>
 				  </button>
