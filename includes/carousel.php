@@ -1,4 +1,4 @@
-<div id="carouselControls" class="carousel slide" data-ride="carousel" data-interval="2000">
+<div id="carouselControls" class="carousel slide" data-ride="carousel" data-interval="5000" style="padding-top: 30px;">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="images/image1.jpeg" class="img-fluid w-100 h-20" alt="...">
